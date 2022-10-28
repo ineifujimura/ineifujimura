@@ -25,8 +25,15 @@ There Will Be A 50% That A Project Will Be Open Source
 But I have none rn
 
 ## **GitHubの統計 (GitHub Statistics)**
-![ineifujimura GitHub stats](https://github-readme-stats.vercel.app/api?username=ineifujimura&theme=radical&show_icons=true) ![ineifujimura](https://github-readme-stats.vercel.app/api/top-langs/?username=ineifujimura&hide=html&layout=compact&theme=radical)
-![ineifujimura](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ineifujimura&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ineifujimura&theme=tokyonight) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ineifujimura&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ineifujimura&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ineifujimura&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ineifujimura&theme=tokyonight&utcOffset=8)
 
 ## **プログラミング言語とツール (Programming languages & tools)🖱**
 
