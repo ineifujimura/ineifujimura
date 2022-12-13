@@ -2,7 +2,7 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ineifujimura?style=social" /><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ineifujimura?style=social"></a>
 
-<img align="center" width="420" src="https://github.com/ineifujimura/ineifujimura/blob/main/inei.jpg?raw=true" />
+<img align="center" width="1080" height="1080" src="https://github.com/ineifujimura/ineifujimura/blob/main/inei.jpg?raw=true" />
 
 ```js
 public class ineiFujimura() {
