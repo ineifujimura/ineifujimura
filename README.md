@@ -2,7 +2,7 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ineifujimura?style=social" /><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ineifujimura?style=social"></a>
 
-<img align="center" width="420" src="https://github.com/ineifujimura/ineifujimura/blob/main/aesthetic-homework.gif?raw=true" />
+<img align="center" width="420" src="https://github.com/ineifujimura/ineifujimura/blob/main/inei.jpg?raw=true" />
 
 ```js
 public class ineiFujimura() {
@@ -25,12 +25,11 @@ There Will Be A 50% That A Project Will Be Open Source
 But I have none rn
 
 ## **GitHubの統計 (GitHub Statistics)**
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ineifujimura&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ineifujimura&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ineifujimura&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ineifujimura&theme=tokyonight)
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ineifujimura&theme=tokyonight)
 
